@@ -38,7 +38,6 @@ const handleNewGame = function(){
 }
 
 const moveListener = function(gameState){
-    console.log("pussy")
     document.getElementById('table').replaceWith(game.render());
     document.getElementById("scoreboard").replaceWith(newScore(gameState));
 }

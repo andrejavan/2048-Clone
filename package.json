@@ -1,0 +1,12 @@
+{
+    "name": "2048 clone",
+    "version": "0.1",
+    "main": "index.js",
+    "author": "Andre Javan",
+    "license": "Who's asking?",
+    "dependencies": {
+        "browser-sync": "^2.26.13",
+        "bulma": "^0.9.2",
+        "keypress": "^0.2.1"
+    }
+}
